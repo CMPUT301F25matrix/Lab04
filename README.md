@@ -1,4 +1,6 @@
-# Lab04 Submission
+# CMPUT 301 : Lab 3 Participation Exercise
 
-Full name: Thet Hnin Hsu  
-CCID: thethnin
+## Student Details
+
+- **Full Name:** `<Thet Hnin Hsu>`
+- **CCID:** `<thethnin>`
