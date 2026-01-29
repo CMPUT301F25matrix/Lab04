@@ -2,5 +2,5 @@
 
 ## Student Details
 
-- **Full Name:** `<Thet Hnin Hsu>`
-- **CCID:** `<thethnin>`
+- **Full Name:** `Thet Hnin Hsu`
+- **CCID:** `thethnin`
