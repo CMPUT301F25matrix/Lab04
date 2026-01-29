@@ -1,6 +1,6 @@
 package com.example.lab04;
 
-public class Circle extends Shape {
+public class Circle  extends Shape {
     private int radius;
 
     public Circle(int x, int y, int radius) {
@@ -8,7 +8,10 @@ public class Circle extends Shape {
         this.radius = radius;
     }
 
+    public Circle(int x, int y) {
+        super(x, y);
+    }
+
     public int getRadius() { return radius; }
     public void setRadius(int radius) { this.radius = radius; }
 }
-
