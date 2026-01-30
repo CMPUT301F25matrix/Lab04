@@ -1,6 +1,6 @@
 package com.example.lab04;
 
-public abstract class Shape {
+public abstract class 7Shape {
     protected int x;
     protected int y;
     String color= "Blue";
