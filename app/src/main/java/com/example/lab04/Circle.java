@@ -1,11 +1,15 @@
 package com.example.lab04;
 
-public class circle  extends Shape {
+public class Circle  extends Shape {
     private int radius;
 
-    public circle(int x, int y, int radius) {
+    public Circle(int x, int y, int radius) {
         super(x, y);
         this.radius = radius;
+    }
+
+    public Circle(int x, int y) {
+        super(x, y);
     }
 
     public int getRadius() { return radius; }
