@@ -6,7 +6,7 @@
 | ------------------ | --------- |
 | `Taufeeq Raji`     | `taufeeqr`|
 | `Ishan Raj`        | `iraj1`   |
-| `Natasha Krishna`  | `nkrishn2`|
+| `Natasha Krishna kanth`  | `nkrishn2`|
 | `Thet Hnin Hsu`    | `thethnin`|
 | `Farhat Samiha Chowa`    | `chowa`   |
 | `Mahi Sruthi`      | `mogalla` |
