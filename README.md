@@ -8,5 +8,5 @@
 | `Ishan Raj`        | `iraj1`   |
 | `Natasha Krishna`  | `nkrishn2`|
 | `Thet Hnin Hsu`    | `thethnin`|
-| `Farhat Samiha`    | `chowa`   |
+| `Farhat Samiha Chowa`    | `chowa`   |
 | `Mahi Sruthi`      | `mogalla` |
